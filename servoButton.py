@@ -23,7 +23,7 @@ def servo_control():
 
 
 if __name__ == "__main__":
-    button = Button(23)
+    button = Button(27)
     button.when_pressed = pressed
 
     # Create Thread for servo control
