@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85f3282a-b050-432d-9048-b3fd7ffe9f79" name="gas-py">
+        <fileTransfer rootFolder="/home/pi/Documents" accessType="SFTP" host="192.168.2.2" port="22" sshConfigId="0d2efca1-0482-4346-a84b-84e42699ba15" sshConfig="pi@192.168.2.2:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
